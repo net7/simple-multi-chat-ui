@@ -26,7 +26,7 @@ This interface provides a clean, modern, ChatGPT-like experience, complete with 
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/gradio_test_ui.git
+    git clone https://github.com/net7/simple-multi-chat-ui.git
     cd gradio_test_ui
     ```
 
